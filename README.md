@@ -67,7 +67,9 @@
 
 ### 📌 소비 내역 등록 화면
 
-<img src="assets/screens/entry_form.png" width="300"/>
+![Image](https://github.com/user-attachments/assets/02a77e8d-936f-4566-bd3f-fa4eb82be4b8)
+
+<img width="643" height="901" alt="Image" src="https://github.com/user-attachments/assets/12141424-d308-4305-96ca-992ab70e9a7e" />
 
 - 카테고리, 금액, 메모, 날짜를 선택하여 소비 내역을 쉽게 기록할 수 있습니다.
 
