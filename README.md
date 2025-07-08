@@ -67,10 +67,8 @@
 
 ### 📌 소비 내역 등록 화면
 
-<!-- 첫 번째 이미지 -->
-<img src="https://github.com/user-attachments/assets/02a77e8d-936f-4566-bd3f-fa4eb82be4b8" width="300" height="420" />
+![Image](https://github.com/user-attachments/assets/02a77e8d-936f-4566-bd3f-fa4eb82be4b8)
 
-<!-- 두 번째 이미지 -->
 <img src="https://github.com/user-attachments/assets/12141424-d308-4305-96ca-992ab70e9a7e" width="300" height="420" />
 
 
