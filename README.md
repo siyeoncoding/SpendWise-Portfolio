@@ -66,10 +66,9 @@
 ---
 
 ### 📌 소비 내역 등록 화면
-<img src="https://github.com/user-attachments/assets/6bbc6248-ffeb-489a-94f9-70204b82feae" width="300" height="400" />
+<img src="https://github.com/user-attachments/assets/6bbc6248-ffeb-489a-94f9-70204b82feae" width="300" />
+<img src="https://github.com/user-attachments/assets/12141424-d308-4305-96ca-992ab70e9a7e" width="300" />
 
-
-<img src="https://github.com/user-attachments/assets/12141424-d308-4305-96ca-992ab70e9a7e" width="300" height="420" />
 
 
 - 카테고리, 금액, 메모, 날짜를 선택하여 소비 내역을 쉽게 기록할 수 있습니다.
